@@ -1,0 +1,2 @@
+# requirements.txt
+pytest        # optional, if you prefer pytest over unittest
